@@ -18,22 +18,20 @@ I also built an **admin version** for hotel staff to manage cabins, bookings, an
 [Admin Repository](#) | [Admin Live Site](#)
 
 ---
-
 ## Screenshot
 
-   <div align="center">
-     <img src="https://imgur.com/a/SD8fXjr#LKuZHwD.jpg" alt="Registration Verification" />
-  </div>
-    <div align="center">
-    <img src="https://imgur.com/1xCNxeb.jpg" alt="Registration Verification" />
-  </div>
-  <div align="center">
-    <img src="https://imgur.com/a/SD8fXjr#nIG2QO6.jpg" alt="Registration Verification" />
-  </div>
-  <div align="center">
-    <img src="https://imgur.com/a/SD8fXjr#8PXFRV3.jpg" alt="Registration Verification" />
-  </div>
----
+<div align="center">
+  <img src="https://i.imgur.com/LKuZHwD.jpg" alt="Registration Verification" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/9Syl4Bj.jpg" alt="Booking Page" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/nIG2QO6.jpg" alt="Cabin List" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/8PXFRV3.jpg" alt="Profile Page" />
+</div>
 
 ## Features
 
