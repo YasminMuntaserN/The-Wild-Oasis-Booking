@@ -21,8 +21,18 @@ I also built an **admin version** for hotel staff to manage cabins, bookings, an
 
 ## Screenshot
 
-![The Wild Oasis Screenshot](#)
-
+   <div align="center">
+     <img src="https://imgur.com/a/SD8fXjr#LKuZHwD.jpg" alt="Registration Verification" />
+  </div>
+    <div align="center">
+    <img src="https://imgur.com/1xCNxeb.jpg" alt="Registration Verification" />
+  </div>
+  <div align="center">
+    <img src="https://imgur.com/a/SD8fXjr#nIG2QO6.jpg" alt="Registration Verification" />
+  </div>
+  <div align="center">
+    <img src="https://imgur.com/a/SD8fXjr#8PXFRV3.jpg" alt="Registration Verification" />
+  </div>
 ---
 
 ## Features
